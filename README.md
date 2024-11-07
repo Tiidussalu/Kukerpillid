@@ -1,5 +1,6 @@
 # KUKERPILLID
 
+
 ## The purpose of this project
 The main goal of this project is to create a **functional website for a band called Kukerpillid form which you could see their songs, info, history etc.**
 
